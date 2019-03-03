@@ -27,8 +27,8 @@ An example is provided in the file optimize_missing_yu_example.m.
 The figures below illustrate the results for the compact disc arm data of the DaISy data collection. The system has two inputs and two outputs. The circles in the figures indicate the available data points for system identification. The red lines in the figures show the optimized inputs and outputs returned by the optimize_missing_yu function, which can then be used by a standard system identification routine, e.g., Matlab's n4sid.
 
 <p float="left">
-  <img src="README_files/CD_Player_Arm_u1.png" alt="CD_Player_Arm_u1.png" width="450" />
-  <img src="README_files/CD_Player_Arm_u2.png" alt="CD_Player_Arm_u2.png" width="450" />
+  <img src="README_files/CD_Player_Arm_u1.png" alt="CD_Player_Arm_u1.png" width="350" />
+  <img src="README_files/CD_Player_Arm_u2.png" alt="CD_Player_Arm_u2.png" width="350" />
 </p>
 
 <p float="left">
